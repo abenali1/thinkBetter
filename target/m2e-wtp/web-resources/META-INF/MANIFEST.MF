@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ThinkBetter
+Implementation-Version: 2.0.5-SNAPSHOT
+Built-By: A693910
+Implementation-Vendor-Id: net.abdelmalek.benali
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ThinkBetter
+Created-By: Maven Integration for Eclipse
+

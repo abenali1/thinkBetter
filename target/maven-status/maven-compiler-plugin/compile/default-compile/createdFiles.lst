@@ -1,0 +1,7 @@
+net\abdelmalek\benali\services\MailService.class
+net\abdelmalek\benali\repositories\CustomerRepository.class
+net\abdelmalek\benali\Application.class
+net\abdelmalek\benali\services\CustomerService.class
+net\abdelmalek\benali\controller\MainController.class
+net\abdelmalek\benali\entities\UserBO.class
+net\abdelmalek\benali\controller\MailController.class
